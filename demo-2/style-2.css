@@ -151,3 +151,15 @@ a{
     text-align: center;
     margin-top: 65px;
 }
+.skills ul li:nth-child(1)::before {
+    content: '\e604';
+}
+.skills ul li:nth-child(2)::before {
+    content: '\e601';
+}
+.skills ul li:nth-child(3)::before {
+    content: '\e601';
+}
+.skills ul li:nth-child(4)::before {
+    content: '\e600';
+}
